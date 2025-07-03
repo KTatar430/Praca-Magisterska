@@ -1,3 +1,1 @@
-# Praca-Magisterksa
-
-Nic dodać nic ująć
+# Praca-Magisterska
